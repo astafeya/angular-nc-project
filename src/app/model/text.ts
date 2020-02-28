@@ -1,5 +1,5 @@
-import { Evaluation } from './evaluation';
-import { Comment } from './comment';
+import { Evaluation } from "./evaluation";
+import { Comment } from "./comment";
 
 export interface Text {
   id: number;
